@@ -10,5 +10,5 @@ Repo içerisinde,ödevde istenen 3 projeye dair Markdown dosyaları açılmışt
 
 ---
 ---
-### ***[Patika.dev](https://www.patika.dev/tr) ekibine teşekürler.***
+### ***[Patika.dev](https://www.patika.dev/tr) ekibine teşekkürler.***
 
