@@ -4,9 +4,9 @@ işbirliği ile düzenlenen **MÜ-Kodluyoruz & Patika.dev Yazılıma Başlangı�
 kapsamında alınan **Veri Yapıları ve Algoritmalar** </br> dersinin final ödevi olarak hazırlanmıştır.
 
 Repo içerisinde,ödevde istenen 3 projeye dair Markdown dosyaları açılmıştır.İlgili Projeyi görüntülemek için gitmek istediğiniz projenin linkine tıklayınız.
-1. [Proje1- Insertion Sort]
-2. [Proje2- Merge Sort ]
-3. [Proje3- Binary Search Tree]
+1. [Proje1- Insertion Sort](https://github.com/cimsitaleyna29/Veri_Yap-lar-_ve_Algoritmalar/blob/main/Insertionsort%20(3).md)
+2. [Proje2- Merge Sort ]()
+3. [Proje3- Binary Search Tree]()
 
 ---
 ---
