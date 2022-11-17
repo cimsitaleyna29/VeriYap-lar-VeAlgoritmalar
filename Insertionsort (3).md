@@ -113,7 +113,7 @@
 ```
 
 ## **A-4)** ***Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.***
-Sıralamanın ortasında bulunduğu için **Average Case** kapsamına grirer.
+Sıralamanın ortasında bulunduğu için **Average Case** kapsamına girer.
 
 
 ---
